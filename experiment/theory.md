@@ -4,7 +4,8 @@
 When a bar magnet is suspended in two Magnetic fields B and Bh, it comes to rest making an angle θ with the direction of Bh.
 
 <table>
-<tr><td> ![alt text](./images/compass.jpg)
+<tr><td> <img src="./images/compass.jpg">
+![alt text](./images/compass.jpg)
 </td>
 <td>![alt text](./images/tg.jpg)</td>
 </tr>
