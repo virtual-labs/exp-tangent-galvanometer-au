@@ -1,10 +1,10 @@
 
 
 ## Principle: 
-When a bar magnet is suspended in two Magnetic fields B and Bh, it comes to rest making an angle θ with the direction of Bh.
+When a bar magnet is suspended in two Magnetic fields B and B<sub>h</sub>, it comes to rest making an angle θ with the direction of Bh.
 
 <table border=0>
-<tr><td align="center"> <img src="./images/compass.jpg">
+<tr><td align="center"> <img src="./images/compass.jpg" width="250">
 </td>
 <td align="center"><img src="./images/tg.jpg"></td>
 </tr>
@@ -14,6 +14,8 @@ When a bar magnet is suspended in two Magnetic fields B and Bh, it comes to rest
 <td align="center">Figure (2)</td>
 </tr>
 </table>
+
+From figure (2) B=B<sub>h</sub> tanθ. This is known as tangent law of magnetism.
 
 <h3>Theory</h3>
 
