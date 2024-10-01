@@ -3,10 +3,17 @@
 ## Principle: 
 When a bar magnet is suspended in two Magnetic fields B and Bh, it comes to rest making an angle θ with the direction of Bh.
 
-
-| ![alt text](./images/compass.jpg) | ![alt text](./images/tg.jpg) |
-
-|       Figure (1)                  |        Figure (2)            |
+<table>
+<tr><td> ![alt text](./images/compass.jpg)
+</td>
+<td>![alt text](./images/tg.jpg)</td>
+</tr>
+</tr>
+<td> Figure (1)
+</td>
+<td>Figure (2)</td>
+</tr>
+</table>
 
 <h3>Theory<h3>
 
