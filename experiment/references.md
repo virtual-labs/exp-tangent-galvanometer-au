@@ -6,5 +6,5 @@ Maxwell, James. Treatise on electricity and magnetism. Cambridge: Cambridge Univ
 Introduction to Physical Science by Alfred.D.Bage,Forgotten books
 
 ### Webliography
-http://en.wikipedia.org/wiki/Galvanometer#Tangent_galvanometer
-http://www.mccc.edu/%7Ehuangj/documents/gal.pdf
+<a href="http://en.wikipedia.org/wiki/Galvanometer#Tangent_galvanometer" target="_blank">Wikipedia</a><br>
+<a href="http://www.mccc.edu/%7Ehuangj/documents/gal.pdf" target="_blank">Document</a>
