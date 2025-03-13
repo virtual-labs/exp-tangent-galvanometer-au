@@ -3,11 +3,10 @@
   "questions": [
     {
       "question": "The tangent galvanometer is an early measuring instrument for",
-
       "answers": {
         "a": "Electric field",
         "b": "Charge",
-        "c": "Current	",
+        "c": "Current",
         "d": "Magnetic field"
       },
       "explanations": {
