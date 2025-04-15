@@ -21,6 +21,8 @@ From figure (2) B=B<sub>h</sub> tanθ. This is known as tangent law of magnetism
 
 Tangent galvanometer is an early measuring instrument for small electric currents. It consists of a coil of insulated copper wire wound on a circular non-magnetic frame. Its working is based on the principle of the tangent law of magnetism. When a current is passed through the circular coil, a magnetic field (B) is produced at the center of the coil in a direction perpendicular to the plane of the coil. The TG is arranged in such a way that the horizontal component of earth’s magnetic field (Bh) is in the direction of the plane of the coil. The magnetic needle is then under the action of two mutually perpendicular fields. If θ is the deflection of the needle, then according to tangent law,
 
+![showimage](https://github.com/user-attachments/assets/54fc8318-4804-4f45-859c-6857887cc18d)
+
 ## Application
 
  1. T.G can be used to measure the magnitude of the horizontal component of the geomagnetic field.
