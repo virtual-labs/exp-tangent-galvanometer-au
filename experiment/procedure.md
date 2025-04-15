@@ -57,7 +57,7 @@ Connections are made as shown in the figure given below, where K is the key, E t
 ## Observations and calculations:
 Number of turns in the coil =....
 
-Circumference of the coil, 2 $\pi$ a=......cm
+Circumference of the coil, 2$\pi$a=......cm
 
 Radius of the coil, a =....cm
 
