@@ -28,9 +28,11 @@ Let I is the current passing through the coil of radius a with n turns, then the
 ![showimage](https://github.com/user-attachments/assets/9dc84d4c-c5c4-4525-953d-f9f56a07661f)
 
 Equating (1) and (2), we get,
+
 ![showimage](https://github.com/user-attachments/assets/b985f237-41b1-4855-91fb-1aee00063ccf)
 
 ![showimage](https://github.com/user-attachments/assets/cd791196-6921-4ad2-9e42-f108636fbaf4)
+
 The left hand side of equation (4) is a constant and is called the reduction factor (K) of the given tangent galvanometer.
 
 
