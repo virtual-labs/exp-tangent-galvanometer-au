@@ -1,18 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Physical Science
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Electricity & Magnetism Virtual Lab
+<b> Experiment|     <b> Tangent Galvanometer
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Tangent galvanometer is an early measuring instrument for electric current. Its working is based on the tangent law of magnetism, which states that the tangent of the angle a compass needle makes is proportional to the ratio of the magnitudes of the two pole.
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b> Amrita Vishwa Vidyapeetham  
 <b> Email id|     <b>  
 <b> Department |  
 
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | . | .
 2 | . | . | . | . | .
