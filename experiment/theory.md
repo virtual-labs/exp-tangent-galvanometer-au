@@ -1,3 +1,4 @@
+
 ### Principle
 
 When a bar magnet is suspended in two Magnetic fields B and B<sub>h</sub>, it comes to rest making an angle θ with the direction of B<sub>h</sub>.
@@ -51,7 +52,3 @@ $$B_{h}=\frac{\mu_{0}nK}{2a}.........(6)$$
 <li>T.G can be used to measure the magnitude of the horizontal component of the geomagnetic field.</li>
 <li>The principle can be used to compare the galvanometer constants.</li>
 </ol>
-
-
-
-

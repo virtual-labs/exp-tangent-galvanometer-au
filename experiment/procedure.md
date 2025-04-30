@@ -33,7 +33,6 @@ Connections are made as shown in the figure given below, where K is the key, E t
  
 - Determine the reduction factor and horizontal intensity of earth's magnetic field.
 
-
  ### Procedure for performing simulator
  
 <ol>
@@ -80,6 +79,7 @@ $$K=\frac{AB}{BC}$$
 The reduction factor of the given tangent galvanometer, K  =............A
 
 Horizontal component of eart's magnetic field, B<sub>h</sub> =...........T
+
 
 
 
