@@ -7,33 +7,35 @@
       "answers": {
         "a": "Electric field",
         "b": "Charge",
-        "c": "Current	",
+        "c": "Current",
         "d": "Magnetic field"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The magnetic field produced by a circular coil carrying current I is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Proportional to I",
+        "b": "Proportional to half of I",
+        "c": "Proportional to square of I",
+        "d": "Inependent of I"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "The S.I unit of magnetic field is",
+      "answers": {
+        "a": "Coulomb",
+        "b": "Tesla",
+        "c": "Gauss",
+        "d": "Newton/Coulomb"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
