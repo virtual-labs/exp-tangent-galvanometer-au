@@ -10,6 +10,8 @@ Connections are made as shown in the figure given below, where K is the key, E t
 
 ![alt text](./images/tg_connection.jpg)
 
+![Circuit](./images/tg_circuit.bmp)
+
 ### The initial adjustments are done as follows:
 - The plane of the coil is made vertical by adjusting the levelling screws.
 
