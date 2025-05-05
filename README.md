@@ -1,6 +1,7 @@
 ## Introduction
 
 
+
 <b>Discipline | <b>Physical Science
 :--|:--|
 <b> Lab | <b> Electricity & Magnetism Virtual Lab
@@ -10,8 +11,10 @@
 
 Tangent galvanometer is an early measuring instrument for electric current. Its working is based on the tangent law of magnetism, which states that the tangent of the angle a compass needle makes is proportional to the ratio of the magnitudes of the two pole.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
+
 <b> Institute | <b> Amrita Vishwa Vidyapeetham  
 <b> Email id|     <b>  
 <b> Department |  
