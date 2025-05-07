@@ -1,11 +1,8 @@
 ### Procedure
+<iframe src="https://www.youtube.com/embed/wIuAnP9xfxw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Apparatus:
 Tangent galvanometer (TG), commutator (C), rheostat (R), battery (E), ammeter (A), key (k), etc
-
-## Video
-[![Watch the video](https://i.ytimg.com/an_webp/wIuAnP9xfxw/mqdefault_6s.webp?du=3000&sqp=CLj25sAG&rs=AOn4CLBJq7NHKo8rhC7ihunVk0l-NdJGxg)](https://youtu.be/wIuAnP9xfxw)
-
 
 
 ## For performing in the real lab:
