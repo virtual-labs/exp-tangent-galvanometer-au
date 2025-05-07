@@ -1,9 +1,9 @@
 ### Procedure
+<iframe src="https://www.youtube.com/embed/wIuAnP9xfxw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Apparatus:
 Tangent galvanometer (TG), commutator (C), rheostat (R), battery (E), ammeter (A), key (k), etc
 
-## [Video](http://www.youtube.com/v/wIuAnP9xfxw&autoplay=1)
 
 ## For performing in the real lab:
 Connections are made as shown in the figure given below, where K is the key, E the battery, A the ammeter, R the rheostat, C the commutator, and T.G the tangent galvanometer. The commutator can reverse the current through the T.G coil without changing the current in the rest of the circuit. Taking the average of the resulting two readings for deflection averages out, any small error in positioning the TG coil relative to the earth's magnetic field Bh.
