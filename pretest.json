@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The tangent galvanometer is an early measuring instrument for",
+      "answers": {
+        "a": "Electric field",
+        "b": "Charge",
+        "c": "Current",
+        "d": "Magnetic field"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The magnetic field produced by a circular coil carrying current I is",
+      "answers": {
+        "a": "Proportional to I",
+        "b": "Proportional to half of I",
+        "c": "Proportional to square of I",
+        "d": "Inependent of I"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "The S.I unit of magnetic field is",
+      "answers": {
+        "a": "Coulomb",
+        "b": "Tesla",
+        "c": "Gauss",
+        "d": "Newton/Coulomb"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
