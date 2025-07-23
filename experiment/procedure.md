@@ -23,7 +23,7 @@ Connections are made as shown in the figure given below, where K is the key, E t
  
 - A suitable current is allowed to pass through the coil.
  
-- Note down the currrent as well as the deflection in T.G.
+- Note down the current as well as the deflection in T.G.
  
 - Reverse the current and note the deflection again.
  
@@ -70,7 +70,7 @@ $$B_{h}=\frac{\mu_{0}nK}{2a} $$
 
 ![tg(6)](https://github.com/user-attachments/assets/5f0e7096-c122-489d-ac90-e845971d13f7)
 
-Reduction factor K of the tangent galvanometer can be detremined.
+Reduction factor K of the tangent galvanometer can be determined.
 
 From the graph drawn as,
 $$K=\frac{AB}{BC}$$
@@ -78,7 +78,7 @@ $$K=\frac{AB}{BC}$$
 ## Result
 The reduction factor of the given tangent galvanometer, K  =............A
 
-Horizontal component of eart's magnetic field, B<sub>h</sub> =...........T
+Horizontal component of earth's magnetic field, B<sub>h</sub> =...........T
 
 
 
